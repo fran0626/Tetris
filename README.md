@@ -1,5 +1,5 @@
 ### Tetris
-Se trata del juego clásico "Tetris" desarrollado en NetBeans (Java).
+Se trata del juego clásico "Tetris" desarrollado en Java con el IDE NetBeans.
 
 ## Funcionamiento
 Para poner en ejecución el juego ya sea en Windows o en Linux, es necesario descargar la carpeta adjunta (Tetris), luego de esto nos dirigimos a la carpeta "dist" y abrimos el archivo "Tetris.jar".
